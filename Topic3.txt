@@ -1,0 +1,10 @@
+﻿Notebook,5,2.50
+Pen,20,0.99
+Marker,10,1.50
+Ruler,8,1.20
+Eraser,12,0.75
+Highlighter,15,1.10
+Glue Stick,6,1.25
+Scissors,3,3.80
+Folder,7,2.00
+Stapler,4,4.99
